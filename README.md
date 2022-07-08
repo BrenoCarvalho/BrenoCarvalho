@@ -18,7 +18,6 @@ com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
 
 Hi! I'm 17 years old and I'm a science and technology enthusiast, I got to know programming at the age of 13 through a friend since then I'm passionate about the area.
-
 <a href="https://open.spotify.com/user/3e1adp2opjzz9u3sk5kuix6yf">
 <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 </a>
