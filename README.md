@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width=280 src="https://lh3.googleusercontent.com/9eAc4OnPNVzeaXdgCmKPw8pX-xKQSsmzagKRkvJTsUFWigrUoGEGn6mDNiLmkGtVWA0p68ft9FinXiAYyhxiE8H-qX3NcJi3oQWBzjOWiDVNNXFLMHuhB6OboT2vmp-Tcx4NSYGLB9kiVkG0QkZexWpq_XouvbVqEdChWGTNRNJTDL43D4XIEAowrzgwh-K51TxuB9u3OdHlV3VxvuJU7_wX7Y6xzokrytXgszj-qpKlTB8JxWT0kumG1-O2FbhBZTcrdk0xrkKkUgK-cOo0mEkh0ZOyKR0S-BDVGRJXM5srjFPd7VEfdmfoQDMhiwxeJ-6LAx57SD1ENMIlXH9C6yJlVgQ4kjED6L4NaPbojRy_ZAJO0KTUd_a8LhBYKkSDyx_Xo3kuRJEkpx62ks4Nq5xtdvta4Imd5fgvG8GIKyK4_Yyakc0BybmSDZ0H9YWFaLO2hZk67_-vqnO-eIu8Bs-SckHu4P5Qj3Jfh7JU_J039xLXh5cBitST8v3zsdFRQffD2fyuU5G3_eHkjVLCFykM3N6zqUwL5gJ23hbxC4RrNxb6tkwwANJYAZc0hKUOWilwAdLgDu0B3A-nbJG6hbCZb9_mmdtkGgQ7myk0E8o37lxqztTCTyKsPYFjJvII1FqXDe67v7kcoqUpdHeqDBjgSFaJdqrGQ64lcMnLW9Fl0v3NazYWXCBqfH81tuHvpFncQT8ZXHCPnwYcGHuK8I-957sXKMNLTPWQ2Wdjxm6l2U7CKLJ3U9D25Stl670=s421-no?authuser=0"/>
-
+<img width=200 src="https://lh3.googleusercontent.com/9eAc4OnPNVzeaXdgCmKPw8pX-xKQSsmzagKRkvJTsUFWigrUoGEGn6mDNiLmkGtVWA0p68ft9FinXiAYyhxiE8H-qX3NcJi3oQWBzjOWiDVNNXFLMHuhB6OboT2vmp-Tcx4NSYGLB9kiVkG0QkZexWpq_XouvbVqEdChWGTNRNJTDL43D4XIEAowrzgwh-K51TxuB9u3OdHlV3VxvuJU7_wX7Y6xzokrytXgszj-qpKlTB8JxWT0kumG1-O2FbhBZTcrdk0xrkKkUgK-cOo0mEkh0ZOyKR0S-BDVGRJXM5srjFPd7VEfdmfoQDMhiwxeJ-6LAx57SD1ENMIlXH9C6yJlVgQ4kjED6L4NaPbojRy_ZAJO0KTUd_a8LhBYKkSDyx_Xo3kuRJEkpx62ks4Nq5xtdvta4Imd5fgvG8GIKyK4_Yyakc0BybmSDZ0H9YWFaLO2hZk67_-vqnO-eIu8Bs-SckHu4P5Qj3Jfh7JU_J039xLXh5cBitST8v3zsdFRQffD2fyuU5G3_eHkjVLCFykM3N6zqUwL5gJ23hbxC4RrNxb6tkwwANJYAZc0hKUOWilwAdLgDu0B3A-nbJG6hbCZb9_mmdtkGgQ7myk0E8o37lxqztTCTyKsPYFjJvII1FqXDe67v7kcoqUpdHeqDBjgSFaJdqrGQ64lcMnLW9Fl0v3NazYWXCBqfH81tuHvpFncQT8ZXHCPnwYcGHuK8I-957sXKMNLTPWQ2Wdjxm6l2U7CKLJ3U9D25Stl670=s421-no?authuser=0"/>
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.
 com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://wa.me/5512981734151" target="_blank">
@@ -18,6 +17,7 @@ com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
 
 Hi! I'm 17 years old and I'm a science and technology enthusiast, I got to know programming at the age of 13 through a friend since then I'm passionate about the area.
+
 <a href="https://open.spotify.com/user/3e1adp2opjzz9u3sk5kuix6yf">
 <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 </a>
