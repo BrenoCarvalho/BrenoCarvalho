@@ -18,4 +18,4 @@
 <br />
 <br />
 
-Hi! I'm 17 years old and I'm a science and technology enthusiast, I got to know programming at the age of 13 through a friend since then I'm passionate about the area.
+Enthusiastic about science and technology, I got to know programming at age 13 through a friend and since then I've been passionate about the area. I have 4 years of practically daily contact with programming, I have never worked for a company and currently work as a desktop software developer in Python for Freelancer projects, I have some experience in Java, basic mobile and web development.
